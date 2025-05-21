@@ -25,7 +25,7 @@ I'm a passionate DevOps engineer focused on building scalable and automated infr
 
 ## 💼 My Tech Stack
 
-![DevOps](https://skillicons.dev/icons?=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,git,github,argocd,prometheus,grafana)
+![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,linux,bash,git,github,githubactions,argocd,prometheus,grafana)
 
 ---
 
