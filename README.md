@@ -15,7 +15,9 @@ I'm a passionate DevOps engineer focused on building scalable and automated infr
 
 ## 📚 Projects
 
-- 🔧 **DevOps Project: Full CI/CD Pipeline**
+- 🔧 **DevOps Project:  End-to-End DevOps Implementation – E-Commerce Microservices Project**
+  - Description:
+	Implemented a production-grade DevOps pipeline for a cloud-native e-commerce application consisting of multiple microservices. Managed infrastructure provisioning, containerization,  orchestration, CI/CD automation, and GitOps deployment on AWS using best practices.
   - Built using **Jenkins**, **Docker**, **GitHub**, and **K8s**
   - Monitored via **Prometheus & Grafana**
   - [View the repo](https://github.com/Govind-M/End-to-End-Devops-Project-Repo)
